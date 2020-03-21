@@ -265,3 +265,7 @@ footer {
   width: auto;
   height: 8px;
 }
+
+ol li{
+  margin-bottom:10px;
+}
