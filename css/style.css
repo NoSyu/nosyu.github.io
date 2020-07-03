@@ -269,3 +269,10 @@ footer {
 ol li{
   margin-bottom:10px;
 }
+
+.content > ul > li ul {
+  list-style-type:none;
+  padding-left: 1rem;
+  margin: 0;
+}
+  
